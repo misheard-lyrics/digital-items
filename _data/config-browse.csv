@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-language,Language,,,Language
+genre,Type,,,Type
+language,Language,,true,,,Language
 creator,Creator,,,Creator
 subject,,true
 location,Location,,,Location
