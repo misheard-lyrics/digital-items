@@ -2,6 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 genre,Type of Material,,,Type of Material
 language,Language,true,,Language
+format,Format,,,Format
 creator,Creator,,,Creator
 subject,,true
 location,Location,,,Location
