@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-genre,Genre,,,Genre
+genre,Type of Material,,,Type of Material
 language,Language,true,,Language
 creator,Creator,,,Creator
 subject,,true
