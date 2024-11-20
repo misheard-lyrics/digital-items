@@ -1,5 +1,9 @@
 field,display_name
 title,Title
-date,Date
+creator,Creator
+date,Date Created
+genre,Type of Material
+language,Language
+format,Format
+location,Location
 description,Description
-subject,Subjects
