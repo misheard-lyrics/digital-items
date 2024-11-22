@@ -1,7 +1,7 @@
 ---
 title: Creators
 layout: cloud
-permalink: /authors.html
+permalink: /creators.html
 cloud-fields: creator
 cloud-min: 1
 cloud-stopwords:
