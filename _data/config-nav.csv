@@ -1,9 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
+About,/about.html
 Browse,/browse.html
+Context and Contents,/content_context.html
 Locations,/locations.html
 Creators,/creators.html
 Material Types,/material_types.html
 Timeline,/timeline.html
 Data,/data.html
-About,/about.html
