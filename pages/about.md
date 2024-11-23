@@ -5,7 +5,7 @@ permalink: /about.html
 credits: true
 ---
 
-{% include feature/jumbotron.html objectid="jpeg29" %}
+{% include feature/jumbotron.html objectid="jpeg31" %}
 
 {% include feature/nav-menu.html sections="Summary of Staff;Acknowledgments;Technical and Metadata Standards;Rights and Use Information" %}
 
